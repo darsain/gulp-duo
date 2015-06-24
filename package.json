@@ -1,0 +1,13 @@
+{
+  "name": "gulp-duo",
+  "version": "1.0.0",
+  "description": "Gulp Duo plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "duo": "~0.12.2",
+    "map-stream": "~0.0.5"
+  }
+}
