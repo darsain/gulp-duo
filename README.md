@@ -6,6 +6,12 @@ Duo plugin for gulp.
 - Will use `file.contents` when present.
 - Will build from path when `gulp.src('foo.js', { read: false })`.
 
+## Install
+
+```
+npm install darsain/gulp-duo --save-dev
+```
+
 ## Example
 
 ```js
