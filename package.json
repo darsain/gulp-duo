@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "duo": "~0.12.2",
-    "map-stream": "~0.0.5"
+    "duo": "~0.14.0",
+    "map-stream": "~0.0.6"
   }
 }
